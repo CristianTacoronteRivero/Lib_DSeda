@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+DSeda/__init__.py
+DSeda.egg-info/PKG-INFO
+DSeda.egg-info/SOURCES.txt
+DSeda.egg-info/dependency_links.txt
+DSeda.egg-info/top_level.txt
