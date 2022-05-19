@@ -1,0 +1,6 @@
+.spyproject
+__pycache__
+build
+dist
+dseda.egg-info
+tests
