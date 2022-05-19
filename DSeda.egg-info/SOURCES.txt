@@ -1,7 +1,10 @@
 LICENSE
+README.md
 setup.py
-DSeda/__init__.py
-DSeda.egg-info/PKG-INFO
-DSeda.egg-info/SOURCES.txt
-DSeda.egg-info/dependency_links.txt
-DSeda.egg-info/top_level.txt
+dseda/__init__.py
+dseda/eda.py
+dseda.egg-info/PKG-INFO
+dseda.egg-info/SOURCES.txt
+dseda.egg-info/dependency_links.txt
+dseda.egg-info/requires.txt
+dseda.egg-info/top_level.txt

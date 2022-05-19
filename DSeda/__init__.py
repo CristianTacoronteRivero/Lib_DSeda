@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed May 18 16:51:54 2022
+Created on Thu May 19 09:46:50 2022
 
 @author: crist
 """
 
-def add_number(a,b):
-	return a+b
+from .eda import add_one

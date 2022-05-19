@@ -1,13 +1,14 @@
 Metadata-Version: 2.1
-Name: DSeda
-Version: 0.1
-Summary: Libreria empleada para facilitar el proceso 	EDA y demas procesos relacionados. Para mas informacion se puede 	visitar el repositorio oficial <https://github.com/CristianTacoronteRivero/Lib_DSeda> 	o enviar correo a cristiantr.develop@gmail.com
-Home-page: UNKNOWN
+Name: dseda
+Version: 0.0.1
+Summary: Librería para DS. Aun en prueba.
+Home-page: https://github.com/CristianTacoronteRivero/Lib_DSeda
 Author: Cristian Tacoronte Rivero
 Author-email: cristiantr.develop@gmail.com
-License: UNKNOWN
+License: MIT
 Platform: UNKNOWN
+Description-Content-Type: text/markdown
 License-File: LICENSE
 
-UNKNOWN
+Esto es una simple prueba!
 
