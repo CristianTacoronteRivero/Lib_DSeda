@@ -6,5 +6,4 @@ dseda/eda.py
 dseda.egg-info/PKG-INFO
 dseda.egg-info/SOURCES.txt
 dseda.egg-info/dependency_links.txt
-dseda.egg-info/requires.txt
 dseda.egg-info/top_level.txt

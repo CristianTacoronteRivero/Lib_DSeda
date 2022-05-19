@@ -10,7 +10,7 @@ from setuptools import find_packages, setup
 
 HERE = pathlib.Path(__file__).parent
 
-VERSION = '0.0.2'
+VERSION = '0.0.3.1'
 PACKAGE_NAME = 'dseda' #Debe coincidir con el nombre de la carpeta 
 AUTHOR = 'Cristian Tacoronte Rivero'
 AUTHOR_EMAIL = 'cristiantr.develop@gmail.com'
@@ -23,9 +23,9 @@ LONG_DESC_TYPE = "text/markdown"
 
 
 #Paquetes necesarios para que funcione la libreía. Se instalarán a la vez si no lo tuvieras ya instalado
-INSTALL_REQUIRES = [
-      'pandas'
-      ]
+# INSTALL_REQUIRES = [
+#       'pandas',
+#       ]
 
 setup(
     name=PACKAGE_NAME,
@@ -36,7 +36,7 @@ setup(
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     url=URL,
-    install_requires=INSTALL_REQUIRES,
+    # install_requires=INSTALL_REQUIRES,
     license=LICENSE,
     packages=find_packages(),
     include_package_data=True

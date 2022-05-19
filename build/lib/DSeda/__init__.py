@@ -5,5 +5,5 @@ Created on Thu May 19 09:46:50 2022
 @author: crist
 """
 
-from .eda import add_one
-from .eda import add_two
+# from .eda import func
+from .eda import valores_nulos_df
