@@ -6,3 +6,4 @@ Created on Thu May 19 09:46:50 2022
 """
 
 from .eda import add_one
+from .eda import add_two

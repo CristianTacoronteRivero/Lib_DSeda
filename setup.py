@@ -10,7 +10,7 @@ from setuptools import find_packages, setup
 
 HERE = pathlib.Path(__file__).parent
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 PACKAGE_NAME = 'dseda' #Debe coincidir con el nombre de la carpeta 
 AUTHOR = 'Cristian Tacoronte Rivero'
 AUTHOR_EMAIL = 'cristiantr.develop@gmail.com'
