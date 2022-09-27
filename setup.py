@@ -10,19 +10,19 @@ from setuptools import find_packages, setup
 
 HERE = pathlib.Path(__file__).parent
 
-VERSION = '0.0.3.1'
-PACKAGE_NAME = 'dseda' #Debe coincidir con el nombre de la carpeta 
+VERSION = '0.0.3.1' # cada vez que quiera realizar un cambio hay que actualizar la versión
+PACKAGE_NAME = 'dseda' # Debe coincidir con el nombre de la carpeta 
 AUTHOR = 'Cristian Tacoronte Rivero'
 AUTHOR_EMAIL = 'cristiantr.develop@gmail.com'
 URL = 'https://github.com/CristianTacoronteRivero/Lib_DSeda'
 
-LICENSE = 'MIT' #Tipo de licencia
+LICENSE = 'MIT' # Tipo de licencia
 DESCRIPTION = 'Librería para DS. Aun en prueba.' #Descripción corta
 LONG_DESCRIPTION = (HERE / "README.md").read_text(encoding='utf-8')
 LONG_DESC_TYPE = "text/markdown"
 
 
-#Paquetes necesarios para que funcione la libreía. Se instalarán a la vez si no lo tuvieras ya instalado
+# Paquetes necesarios para que funcione la libreía. Se instalarán a la vez si no lo tuvieras ya instalado
 # INSTALL_REQUIRES = [
 #       'pandas',
 #       ]
